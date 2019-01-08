@@ -16,16 +16,16 @@
 title: MENGYUE QI
 email: qimengyue@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Software Engineer,
+  A Technical Program Manager,
+  Software Engineer,
   Rubyist,
-  Scrum Fan,
-  Frontend Beginner.
+  Scrum Believer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mengyue
 github_username:  mengyue
-linkedin_username: Mengyue Qi
-linkedin_profile_link: mengyue-qi-3ba6a343
+# linkedin_username: Mengyue Qi
+# linkedin_profile_link: mengyue-qi-3ba6a343
 
 # Build settings
 markdown: kramdown
